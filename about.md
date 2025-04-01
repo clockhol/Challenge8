@@ -2,6 +2,17 @@
 layout: layout.liquid
 title: About
 ---
+<script src="path/to/md-gallery.js"></script>
 
-# About the 11ty **Boilerplate**
-<img class="about" alt="pine" src="/images/pine.png" width="50" />
+# Hiking **Photo** Gallery
+
+* ![Image 1](/images/Zion1.jpg)
+* ![Image 2](/images/Zion2.jpg)
+* ![Image 3](/images/Zion3.jpg)
+
+<img class="filter-green" alt="pine" src="/images/token_moonriver.svg" width="75" />
+
+
+<script>
+    md_gallery();
+</script>
