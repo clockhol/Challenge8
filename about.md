@@ -13,6 +13,3 @@ title: About
 <img class="filter-green" alt="pine" src="/images/token_moonriver.svg" width="75" />
 
 
-<script>
-    md_gallery();
-</script>
